@@ -2,5 +2,5 @@ package com.bjpowernode.domain;
 
 public class Student {
     private String name;
-    private Integer ager;
+    private Integer age;
 }
